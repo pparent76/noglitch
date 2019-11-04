@@ -1,7 +1,8 @@
 no_glitch
 =============
 
-Remove glitches and flickering from videos caused by buggy smooth auto-exposure on certain cameras 
+Remove glitches and flickering from videos caused by buggy smooth auto-exposure on certain cameras.
+It happens when wrong timing on physical lens parameters changes cause a frame a lot brighter or a lot darcker than previous and next frame.
 
 Usage:
 ./noglitch.sh FILE_TO_CONVERT
