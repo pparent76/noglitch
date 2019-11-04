@@ -1,0 +1,11 @@
+no_glitch
+=============
+
+Remove glitches and flickering from videos caused by buggy smooth auto-exposure on certain cameras 
+
+Usage:
+./noglitch.sh FILE_TO_CONVERT
+
+Requirements:
+    * ffmpeg
+    * convert (image magic)    
